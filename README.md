@@ -1,8 +1,4 @@
-Here is a **professional README.md** for your **Sentiment Analysis Streamlit project**. You can copy it directly into your GitHub repository.
-
----
-
-# 📊 Sentiment Analysis Web App
+# 📊 Sentiment Analysis App
 
 A simple **Machine Learning web application** that predicts the **sentiment of text** as **Positive, Negative, Neutral, or Irrelevant**.
 The application is built using **Python, Machine Learning, and Streamlit** to provide an interactive user interface.
